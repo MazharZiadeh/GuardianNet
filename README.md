@@ -33,42 +33,8 @@ In this demo, **GuardianNet supervises a transformer-based chatbot**, ensuring i
 ✅ **Scalable & Novel** – Can be extended to larger models, multi-AI supervision, or integrated with existing frameworks.
 
 ---
-## Installation
-### Prerequisites
-- **Python 3.8+**
-- **PyTorch** (`pip install torch`)
-- **NumPy** (`pip install numpy`)
-- **Colorama** (`pip install colorama`) _(For vibrant console output)_
-
-### Setup
-Clone this repository:
-```bash
-git clone https://github.com/yourusername/guardiannet.git
-cd guardiannet
-```
-_(Update with your actual repo URL once hosted!)_
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-Or manually:
-```bash
-pip install torch numpy colorama
-```
-
-Run the demo:
-```bash
-python guardian_net_demo.py
-```
-
----
-## Usage
 ### Launch the Demo
-Execute the script to see GuardianNet in action:
-```bash
-python guardian_net_demo.py
-```
+
 The **Ethics Dashboard** will light up as it processes test inputs like _"I hate you"_ or _"fake news."_
 
 ### Customize Inputs
@@ -131,13 +97,5 @@ Final Ethics Drift: -0.65
 📈 **Scalable** – Easily extends to **larger models and multi-AI systems** with minimal tweaks.
 
 ---
-## Contributing
-Got ideas to improve GuardianNet? Contributions are welcome! Fork the repo, create a branch, and submit a pull request.
 
----
-## License
-This project is licensed under the **MIT License**.
-
----
-**GuardianNet: The Future of Ethical AI Supervision 🚀**
 
